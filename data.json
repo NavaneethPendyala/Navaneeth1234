@@ -1,0 +1,48 @@
+{
+  "basic":{
+    "image":"manu1.png",
+    "name":"Jayanth",
+     "email":"sonofsrinivas1234@gmail.com",
+     "number":"+91-9246082338",
+     "Address":"pragati engineering college"
+  },
+  "career":{
+    "info":"to settle with a job"
+  },
+  "education":[
+    {
+    "institute":"pragati college",
+    "degree":"BTECH",
+    "passout":"2023"
+    },
+
+    {
+    "institute":"viveka",
+    "degree":"INTER",
+    "passout":"2019"
+    },
+    {
+    "institute":"siddhartha",
+    "degree":"SSC",
+    "passout":"2017"
+    }
+],
+"skills":[
+  {
+    "title":"programming languages",
+    "content":["c","c++","java","javascript","ruby"]
+
+  },
+
+  {
+    "title":"Operating Systems",
+    "content":["Windows","Ubuntu"]
+
+  },
+  {
+    "title":"Databases",
+    "content":["indexDBD","mysql","oracle"]
+
+  }
+]
+}
